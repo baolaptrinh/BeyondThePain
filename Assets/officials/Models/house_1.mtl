@@ -1,0 +1,81 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl pillar_wood
+Ka 0.000000 0.000000 0.000000
+Kd 0.015584 0.015584 0.015584
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl Default_Material
+Ka 0.500000 0.500000 0.500000
+Kd 0.500000 0.500000 0.500000
+illum 1
+Tr 1.000000
+
+newmtl hideout_01:window_door
+Ka 0.175325 0.175325 0.175325
+Kd 0.633766 0.450604 0.335262
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl red_wood1
+Ka 0.000000 0.000000 0.000000
+Kd 0.041600 0.002413 0.002413
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wall
+Ka 0.000000 0.000000 0.000000
+Kd 0.320000 0.220800 0.220800
+Ks 0.720280 0.720280 0.720280
+illum 2
+Ns 2.152480
+Tr 1.000000
+
+newmtl hideout_01:roof_texture
+map_Kd thumb2.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl lambert2
+Ka 0.000000 0.000000 0.000000
+Kd 0.249600 0.235448 0.154502
+illum 1
+Tr 1.000000
+
+newmtl hideout_01:steps1
+map_Kd preview-3-HD-Pavement-Stone-Photo-Texture-Pack.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl hideout_01:floor
+map_Kd wood_white_oak_hardwood_flooring_light_parquet_20160314_1326231340.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl hideout_01:lambert2
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+illum 1
+Tr 1.000000

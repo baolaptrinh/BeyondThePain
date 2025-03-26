@@ -1,0 +1,20 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl blinn1
+Ka 0.000000 0.000000 0.000000
+Kd 0.077600 0.070098 0.065339
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl blinn2
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000

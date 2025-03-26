@@ -1,0 +1,64 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl pillar
+map_Kd RED-WOOD.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl roofs
+map_Kd thumb2.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl blinn8
+map_Kd background-2045379_960_720.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wood
+map_Kd homey-idea-dark-wood-floors-texture-8-inspiration-ideas-cherry-hardwood-floor-texture-with-dark-wood-xzvabuqq-pictures-to-pin.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl stone
+map_Kd preview-3-HD-Pavement-Stone-Photo-Texture-Pack.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wall2
+Ka 0.000000 0.000000 0.000000
+Kd 0.633600 0.450486 0.335174
+illum 1
+Tr 1.000000
+
+newmtl stone1
+map_Kd TexturesCom_BrickRound0109_2_M.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000

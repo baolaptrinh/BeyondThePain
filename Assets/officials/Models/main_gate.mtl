@@ -1,0 +1,73 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl stone
+map_Kd preview-3-HD-Pavement-Stone-Photo-Texture-Pack.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wall
+map_Kd 48245835-Seamless-beige-marble-background-with-natural-pattern-Tiled-cream-marble-stone-wall-texture--Stock-Photo.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl roof
+map_Kd thumb2.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wood2
+map_Kd 68771a73-8c2c-4c32-a49a-a2568e92ebb8_1000.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl lambert2
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+illum 1
+Tr 1.000000
+
+newmtl wood1
+map_Kd RED-WOOD.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wood
+map_Kd Wood-Textures-1.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl blinn1
+map_Kd background-2045379_960_720.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000

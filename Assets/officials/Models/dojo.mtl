@@ -1,0 +1,102 @@
+# 
+# Wavefront material file
+# Created with Kaydara FBX
+# 
+
+newmtl wood
+map_Kd 68771a73-8c2c-4c32-a49a-a2568e92ebb8_1000.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl hideout_01:steps1
+map_Kd preview-3-HD-Pavement-Stone-Photo-Texture-Pack.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl hideout_01:window_door
+Ka 0.175325 0.175325 0.175325
+Kd 0.633766 0.450604 0.335262
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wood2
+map_Kd Wood-Textures-1.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wood1
+map_Kd background-2045379_960_720.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wood3
+map_Kd old-wood-texture-1385971270UvN.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl wall_2
+map_Kd blinds01.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl decoration_wood
+map_Kd RED-WOOD.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl floor_wood
+map_Kd homey-idea-dark-wood-floors-texture-8-inspiration-ideas-cherry-hardwood-floor-texture-with-dark-wood-xzvabuqq-pictures-to-pin.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl floor_mat
+map_Kd cream-colored-towel-texture.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
+
+newmtl roof
+map_Kd thumb2.jpg
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+illum 2
+Ns 6.311791
+Tr 1.000000
